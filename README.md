@@ -50,8 +50,9 @@ Học đến đâu — đẩy đến đó. Không có nội dung placeholder.
 ### OSCP Prep — Tuần 3: Recon & Web Exploitation
 | Chủ đề | Trạng thái | Tài liệu |
 |:---|:---:|:---|
-| Recon & Scanning (Nmap, Gobuster, Ffuf) | ⬜ | — |
-| Web Exploitation (LFI/RFI, Log Poisoning) | ⬜ | — |
+| Recon & Enumeration 5-Step Runbook (DNS, Nmap, SMB, NFS, SMTP, SNMP, Vuln Scan) | ✅ Xong | [01-Enumeration-Runbook-5-Steps.md](PEN200-CPTS-Recon-Enumeration/01-Enumeration-Runbook-5-Steps.md) |
+| Practice Labs (Docker Hub & GitHub Labs for Recon) | ✅ Xong | [02-Practice-Labs-Docker.md](PEN200-CPTS-Recon-Enumeration/02-Practice-Labs-Docker.md) |
+| Web Exploitation (LFI/RFI, Log Poisoning, File Upload, SQLi) | ⏳ Đang học | — |
 | Win32 Buffer Overflow | ⬜ | — |
 
 ### OSCP Prep — Tuần 4: Mock Tests & Interview
